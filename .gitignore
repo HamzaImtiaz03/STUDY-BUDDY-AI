@@ -3,3 +3,7 @@ venv/
 .env
 LLMOPS_3.egg-info/
 results/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
